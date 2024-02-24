@@ -2,8 +2,8 @@
 module.exports = {
   fromDisplayText: '默默', // 收件箱展示的来件人名字
   fromDisplaySubText: '每日提醒', // 收件箱展示的次级标题
-  user: '571563232@qq.com', // 发送者邮箱
-  pass: 'rlomizjgcxbpbeid', // 发送者邮箱MTP协议密码
+  user: '732796330@qq.com', // 发送者邮箱
+  pass: 'rowfoubxzkmjbgah', // 发送者邮箱MTP协议密码
   to: '37037825@qq.com', // 发送到谁，填邮箱
   weatherKey: '33369e365fe84eb68876f52a2ae51cca', // 和风天气key
   location: '101121007',  // 和风天气-成都武侯区的id
